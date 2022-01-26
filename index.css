@@ -1,0 +1,23 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+
+
+
+ nav{
+     background-color:#029f58;
+ }
+
+ 
+ .hero{
+    background-color:#029f58;
+}
+
+
+.app__store{
+    background-color:#029f58;
+}
