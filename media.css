@@ -152,6 +152,49 @@
          width:100px;
      }
 
+     
+     .influencer{
+     }
+
+     .influencer__left{
+         flex:1;
+         padding:30px;
+     }
+
+     .influencer__right{
+        text-align: center;
+        padding:50px;
+    }
+
+    .influencer__right img{
+        width:80%;
+    }
+
+
+    .influencer__fans{
+        background-color:#FF8C62;
+        border-radius: 30px;
+        padding:5px 10px;
+        width:100px;
+        font-weight:bold;
+    }
+
+    .influencer__influencer{
+        margin-top:1.5rem;
+        font-family: 'DM Sans';
+        font-size: 1.875rem;
+        line-height: 2.25rem;
+
+     }
+
+     .influencer__influencer__text{
+        margin-top:1.5rem;
+        font-family: 'DM Sans';  
+        font-size: 1rem;
+        line-height: 1.25rem; 
+     }
+
+
 
      
  
@@ -355,6 +398,60 @@
         line-height: 1.25rem; 
         width:400px;
      }
+
+
+     
+     .influencer{
+        display: flex;
+        align-items: center;
+     }
+
+     .influencer__left{
+         flex:1;
+         padding:30px;
+     }
+
+     .influencer__right{
+        flex:1;
+        text-align: center;
+    }
+
+
+
+    .influencer__fans{
+        background-color:#FF8C62;
+        border-radius: 30px;
+        padding:5px 10px;
+        width:100px;
+        font-weight:bold;
+    }
+
+    .influencer__influencer{
+        margin-top:1.5rem;
+        font-family: 'DM Sans';
+        font-size: 3em;
+        line-height: 3rem;
+        width:350px;
+
+     }
+
+     .influencer__influencer__text{
+        margin-top:1.5rem;
+        font-family: 'DM Sans';  
+        font-size: 1rem;
+        line-height: 1.25rem; 
+        width:400px;
+     }
+
+
+     .influencer__right{
+        text-align: center;
+        padding:130px;
+    }
+
+    .influencer__right img{
+        width:80%;
+    }
 
 
  
