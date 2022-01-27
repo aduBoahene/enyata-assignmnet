@@ -78,15 +78,16 @@
      .connect{
        width:80%;
        margin:0 auto 0 auto;
-       padding:30px;
     }
 
      .connect__fans{
          background-color: #fab200;
-         padding:10px;
+         padding:5px 10px 5px 10px;
          border-radius: 20px;
          width: 20%;
          justify-content: center;
+         margin-bottom:20px;
+
      }
      .connect__influencer{
         margin-top:1.5rem;
@@ -108,6 +109,52 @@
         margin-top: 10px;
         padding:10px;
      }
+
+
+     
+     .chat{
+        width:100%;
+     }
+
+     .chat__left{
+       background-color: #029f58;
+       padding:40px 0 40px 65px;
+     }
+
+     .chat__right{
+         padding:30px;
+         text-align: center;
+    }
+
+
+    .chat__fans{
+         background-color: #fab200;
+         padding:5px 10px 5px 10px;
+         border-radius: 20px;
+         width: 20%;
+         justify-content: center;
+         margin-bottom:20px;
+    }
+
+    .chat__influencer{
+      color:#fff;
+      font-family: 'DM Sans';  
+
+     }
+
+     .chat__influencer__text{
+       color:#fff;
+       font-family: 'DM Sans';  
+
+     }
+
+     .chat__right img{
+         width:100px;
+     }
+
+
+     
+ 
 
 
 
@@ -238,6 +285,7 @@
          width: 80%;
          margin:0 auto 0 auto;
          align-items: center;
+         padding-bottom:40px
      }
 
      .connect__fans{
@@ -265,7 +313,51 @@
         width:400px;
      }
 
-    
+
+     
+     .chat{
+        display: flex;
+        align-items: center;
+        width:80%;
+     }
+
+     .chat__left{
+         flex:1;
+         background-color: #029f58;
+     }
+
+     .chat__right{
+        flex:1;
+    }
+
+
+    .chat__fans{
+        background-color:#fab200;
+        border-radius: 30px;
+        padding:5px 10px;
+        width:70px;
+        font-weight:bold;
+    }
+
+    .chat__influencer{
+        margin-top:1.5rem;
+        font-family: 'DM Sans';
+        font-size: 3em;
+        line-height: 3rem;
+        width:350px;
+
+     }
+
+     .chat__influencer__text{
+        margin-top:1.5rem;
+        font-family: 'DM Sans';  
+        font-size: 1rem;
+        line-height: 1.25rem; 
+        width:400px;
+     }
+
+
+ 
 
    
 
