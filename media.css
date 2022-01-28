@@ -391,6 +391,7 @@
     color:#fff;
     padding:2px;
     border-radius: 0 5px 5px 0;
+    font-family: 'DM Sans';
 }
 
 .green{
@@ -809,8 +810,6 @@ line-height: 2.25rem;
 }
 
 
-
-
 .footer_menu__list{
     margin-top:10px;
     margin-left:30px;
@@ -823,6 +822,7 @@ line-height: 2.25rem;
 .footer__search .btn{
     background-color: black;
     color:#fff;
+    font-family: 'DM Sans';
 
 }
 
