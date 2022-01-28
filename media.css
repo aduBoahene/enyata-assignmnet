@@ -358,6 +358,10 @@
         font-family: 'DM Sans';
     }
 
+    .footer_menu__list li{
+        font-family: 'DM Sans';
+    }
+
     .util{
         margin-top:10px;
     }
@@ -813,6 +817,10 @@ line-height: 2.25rem;
 .footer_menu__list{
     margin-top:10px;
     margin-left:30px;
+}
+
+.footer_menu__list li{
+    font-family: 'DM Sans';
 }
 
 .footer__input{
