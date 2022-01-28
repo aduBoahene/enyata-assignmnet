@@ -751,6 +751,10 @@ color:#fff;
       width: 350px;
 }
 
+.timeline{
+    width:90%;
+    margin:0 auto 0 auto;
+}
 
 .timeline__inner{
     display: flex;
