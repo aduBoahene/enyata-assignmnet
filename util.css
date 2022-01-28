@@ -31,3 +31,26 @@
     height: 15px;
     width: 15px;
   }
+
+
+  input[type=text] {
+    border: none;
+    background-color: none;
+    outline: 0;
+   
+  }
+  
+  input[type=text]:focus {
+    border: none;
+    background-color: none;
+    outline: 0;
+   
+  }
+  
+  .center { 
+    overflow: auto;
+    margin: auto; 
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0; 
+  }
+  
