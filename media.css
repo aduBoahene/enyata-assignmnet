@@ -768,7 +768,8 @@ color:#fff;
 
 
 .footer{
-    padding:30px;
+    width:90%;
+    margin:0 auto 0 auto;
 }
 
 .footer__top{
