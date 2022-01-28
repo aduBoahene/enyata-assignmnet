@@ -330,10 +330,20 @@
     .footer{
         padding:20px;
     }
+
+
+    .footer__search{
+        margin-bottom: 10px;
+        margin-top:20px;
+    }
      
     .footer__menu{
         display: flex;
         flex-direction: column;
+    }
+
+    .footer__top{
+        margin-bottom: 20px;
     }
 
     .footer__input{
@@ -344,9 +354,17 @@
         list-style: none;
     }
 
+    .footer__menu ul li{
+        font-family: 'DM Sans';
+    }
+
+    .util{
+        margin-top:10px;
+    }
     
 .util ul{
     list-style: none;
+    margin-bottom:20px;
 }
 
 .footer__top span{
